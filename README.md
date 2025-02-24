@@ -1,4 +1,22 @@
-# Header Key Table
+# Heart Disease Classification & Outlier Detection
+## Overview
+This project applies machine learning techniques to classify heart disease presence and detect outliers in medical data. By leveraging data mining methodologies, we aim to enhance predictive accuracy and data integrity in heart disease diagnosis.
+
+## Features
+Heart Disease Classification: Implements machine learning models to predict the presence of heart disease.
+Outlier Detection: Identifies anomalies in the dataset to improve data quality.
+Data Preprocessing: Cleans and transforms raw medical data for better model performance.
+Performance Evaluation: Compares different classification models based on accuracy and other metrics.
+
+## Technologies Used
+Python
+Pandas, NumPy (Data preprocessing and analysis)
+Matplotlib, Seaborn (Data visualization)
+Scikit-learn (Machine learning models and evaluation)
+Jupyter Notebook (Code development and experimentation)
+
+## Data Set
+### Header Key Table
 
 | Column | Meaning |
 | --- | --- |
